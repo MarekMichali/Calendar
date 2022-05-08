@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1595063540 source:c:\users\marek\desktop\c7a8a23f-gr51-repo\projekt\kalendarz\funkcje.c
+	"funkcje.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1595063533 c:\users\marek\desktop\c7a8a23f-gr51-repo\projekt\kalendarz\funkcje.h
+	"struktury.h"
+
+1595003558 c:\users\marek\desktop\c7a8a23f-gr51-repo\projekt\kalendarz\struktury.h
+
+1595064989 source:c:\users\marek\desktop\c7a8a23f-gr51-repo\projekt\kalendarz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funkcje.h"
+
+1595149831 source:d:\kalendarz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funkcje.h"
+
+1595152128 d:\kalendarz\funkcje.h
+	"struktury.h"
+
+1595150173 d:\kalendarz\struktury.h
+
+1595155480 source:d:\kalendarz\funkcje.c
+	"funkcje.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"curl/curl.h"
+	<conio.h>
+	<unistd.h>
+	<pthread.h>
+
+1594583989 d:\kalendarz\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1594583989 d:\kalendarz\curl\curlver.h
+
+1594583989 d:\kalendarz\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1594583989 d:\kalendarz\curl\easy.h
+
+1594583989 d:\kalendarz\curl\multi.h
+	"curl.h"
+
+1594583989 d:\kalendarz\curl\urlapi.h
+	"curl.h"
+
+1594583989 d:\kalendarz\curl\typecheck-gcc.h
+
